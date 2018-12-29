@@ -83,6 +83,7 @@ pricing:
         - One or two varieties of beans"
       plan: Small
       price: '505'
+      test: '2228'
     - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
       items:
         - 6 lbs of coffee per month
