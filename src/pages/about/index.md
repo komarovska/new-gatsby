@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: test
+title: WOW
 ---
 ### Shade-grown coffee
 
